@@ -2,29 +2,7 @@
  
 <img  align="center" src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
  
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; soy Natalia Espinoza  
-               
-        </samp>
-</h3>
-<br>
 
-
-
-<p align="center">
-        <!-- Organisation  -->
-        <samp>
-                
-                <br>
-                「 I  soy Front-end Developer egresada de Laboratoria </b> 」
-                <br>
-                <br>
-        </samp>
-     
-        
-  </p>     
-       
         
   
 ### Mis estadísticas de GitHub
