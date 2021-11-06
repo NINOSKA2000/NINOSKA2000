@@ -7,7 +7,8 @@
 
 👩‍🎓 Estudié la carrera de **INGENIERIA** en la UNMSM. 
 
-  
+</p>   
+
 
 ### 🛠 &nbsp;TECNOLOGIAS QUE MANEJO 
 
@@ -28,7 +29,7 @@
     </p>
     
     
-</p>    
+ 
   
   
   
