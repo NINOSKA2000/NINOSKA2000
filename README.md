@@ -1,19 +1,19 @@
 <h3 align="center">
- <samp>
+ 
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-  </samp>
+ 
  </h3>
 
   
   <p align="center">
        
-        <samp>
+    
                 「  Hola! Soy Natalia  Espinoza 」
                 <br>
                 「 Soy **Front End Developer** egresada del bootcamp de Laboratoria con experiencia en desarrollo de páginas web </b> 」
                 <br>
            
-        </samp>
+
  
  </p>
  
