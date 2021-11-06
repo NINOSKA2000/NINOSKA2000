@@ -1,19 +1,27 @@
 <p align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 
-# Hola! Soy Natalia  Espinoza
-
-👩‍💻 Soy **Front End Developer** egresada del bootcamp de Laboratoria con experiencia en desarrollo de páginas web.
-
-👩‍🎓 Estudié la carrera de **INGENIERIA** en la UNMSM. 
-
-</p>   
-
-
-### 🛠 &nbsp;TECNOLOGIAS QUE MANEJO 
-
   
-<p align="left">
+  
+  <p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「  Hola! Soy Natalia  Espinoza 」
+                <br>
+                「 Soy **Front End Developer** egresada del bootcamp de Laboratoria con experiencia en desarrollo de páginas web</b> 」
+                <br>
+                <br>
+        </samp>
+             
+             
+    </p>  
+    
+        <!-- tecnologias  -->
+        
+        <p align="center ">
+        
+        ### 🛠 &nbsp;TECNOLOGIAS QUE MANEJO 
+        
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
@@ -26,12 +34,10 @@
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
  <code><img height="23" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-    </p>
-    
-    
- 
-  
-  
+ </p>
+        
+        
+        
   
 ### Mis estadísticas de GitHub
 
