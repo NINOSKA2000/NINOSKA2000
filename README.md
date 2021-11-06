@@ -1,7 +1,7 @@
 
  
 <p align="center" >
-   <img   src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="50%"   heigth="32px"  />
+   <img   src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="60%"   heigth="32px"  />
  <h1 align="center"> Soy Natalia Espinoza </h1>
 <h3 align="center"> Front-Developer Apasionada por la tecnología egresada de Laboratoria_Lima </h3>
 </p>
