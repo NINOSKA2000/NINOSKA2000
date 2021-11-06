@@ -47,3 +47,8 @@
 * Email: nespinozabar@gmail.com
 
 
+
+<h2> Github Stats </h2> 
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<br/>
+
