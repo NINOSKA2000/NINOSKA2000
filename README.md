@@ -15,4 +15,4 @@ stats
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NINOSKA2000 &layout=compact)](https://https://github.com/NINOSKA2000/nataliaEspinoza/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NINOSKA2000&layout=compact)](https://github.com/NINOSKA2000/nataliaEspinoza/edit/main/README.md)
