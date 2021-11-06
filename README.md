@@ -7,9 +7,31 @@
 # Hola! Soy Natalia  Espinoza
 
 
-👩‍💻 Soy **Front End Developer** egresada del bootcamp de Laboratoria con conocimientos en Back End.
+👩‍💻 Soy **Front End Developer** egresada del bootcamp de Laboratoria con experiencia en desarrollo de páginas web.
 
 👩‍🎓 Estudié la carrera de **INGENIERIA** en la UNMSM. 
+
+  
+🤝 A  cerca de mi ...
+
+```javascript
+const nataliaEspinoza = {
+    pronouns: "She",
+    code: ["Javascript", "react", "node.js", "HTML", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["React"]
+            css: ["SASS", "bootstrap","tailwindcss"]
+        },
+        backEnd: {
+            js: ["Node.js"]           
+        },
+        databases: [ "Firebase", "Firestore" , "MongoDB"]
+    },
+    architecture: [ "Progressive web applications", "Single page applications"],
+};
+```
+----
 
 
 ### 🛠 &nbsp;TECNOLOGIAS QUE MANEJO 
@@ -29,6 +51,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NINOSKA2000&layout=compact&theme=buefy)](https://github.com/nataliaEspinoza/github-readme-stats)
 
+  
 
 ### Puedes contactarme aquí 👇🏻
 
