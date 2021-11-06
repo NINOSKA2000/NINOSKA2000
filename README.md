@@ -16,5 +16,5 @@ stats
 
 LENGUAJES 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NINOSKA2000)](https://github.com/NINOSKA2000/nataliaEspinoza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NINOSKA2000)](https://github.com/NINOSKA2000/LIM015-burger-queen-api-client)
 
