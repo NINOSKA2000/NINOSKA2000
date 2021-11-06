@@ -1,8 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </br>
 
-
-
 # Hola! Soy Natalia  Espinoza
 
 
@@ -10,12 +8,11 @@
 
 👩‍🎓 Estudié la carrera de **INGENIERIA** en la UNMSM. 
 
+
+
   
 
-
-
 ### 🛠 &nbsp;TECNOLOGIAS QUE MANEJO 
-
 
   
 <p align="left">
@@ -32,6 +29,8 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
  <code><img height="23" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
     </p>
+  
+  
   
   
   
