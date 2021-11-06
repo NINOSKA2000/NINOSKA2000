@@ -18,12 +18,12 @@ stats
 
 ![Ninoska2000 GitHub stats](https://github-readme-stats.vercel.app/api?username=NINOSKA2000&theme=synthwave&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NINOSKA2000&layout=compact&theme=buefy)](https://github.com/NINOSKA2000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NINOSKA2000&layout=compact&theme=buefy)](https://github.com/nataliaEspinoza/github-readme-stats)
 
 
 ### Puedes contactarme aquí 👇🏻
 
-* LinkedIn: [linkedin.com/in/thainole](https://www.linkedin.com/in/nataliaespinoza21/)
+* LinkedIn: [linkedin.com/in/nataliaespinoza21](https://www.linkedin.com/in/nataliaespinoza21/)
 
 * Email: nespinozabar@gmail.com
 
