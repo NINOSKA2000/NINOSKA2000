@@ -1,6 +1,9 @@
-<p align="center">
+<h3 align="center">
+ <samp>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
- </p>
+  </samp>
+ </h3>
+
   
   <p align="center">
        
