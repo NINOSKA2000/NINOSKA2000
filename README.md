@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-
-  
+ </p>
   
   <p align="center">
         <!-- Organisation  -->
@@ -10,7 +9,7 @@
                 <br>
                 「 Soy **Front End Developer** egresada del bootcamp de Laboratoria con experiencia en desarrollo de páginas web</b> 」
                 <br>
-                <br>
+           
         </samp>
              
       
