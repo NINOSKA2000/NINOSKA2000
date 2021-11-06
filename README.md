@@ -1,3 +1,4 @@
+<p align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 
 # Hola! Soy Natalia  Espinoza
@@ -25,6 +26,9 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
  <code><img height="23" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
     </p>
+    
+    
+</p>    
   
   
   
