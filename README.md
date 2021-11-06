@@ -9,4 +9,4 @@ stats
 
 
 
-![Ninoska2000 GitHub stats](https://github-readme-stats.vercel.app/api?username=NINOSKA2000&theme=dark&show_icons=true)
+![Ninoska2000 GitHub stats](https://github-readme-stats.vercel.app/api?username=NINOSKA2000&theme=synthwave &show_icons=true)
