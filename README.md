@@ -15,4 +15,4 @@ stats
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NINOSKA2000&layout=compact)](https://github.com/NINOSKA2000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NINOSKA2000&layout=compact)](https://github.com/NINOSKA2000/LIM015-burger-queen-api-client)
