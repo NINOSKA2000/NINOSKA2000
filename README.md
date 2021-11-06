@@ -31,8 +31,7 @@
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         </a>
         <!-- CSS  -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="CSS"
-                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+        <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
         </a>
         <!-- JavaScript -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
@@ -50,17 +49,7 @@
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
                         src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
         </a>
-        <a href="[https://sass-lang.com](https://sass-lang.com/)" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)" alt="sass" width="40" height="40"/> </a>
-<a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" alt="javascript" width="40" height="40"/> </a>
-<a href="[https://reactjs.org/](https://reactjs.org/)" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" alt="react" width="40" height="40"/> </a>
-<a href="[https://nodejs.org](https://nodejs.org/)" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)" alt="nodejs" width="40" height="40"/> </a>
-<a href="[https://www.mongodb.com/](https://www.mongodb.com/)" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)" alt="mongodb" width="40" height="40"/> </a>
-<a href="[https://www.postman.com/](https://www.postman.com/)" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)" alt="postman" width="40" height="40"/> </a>
-<a href="[https://git-scm.com/](https://git-scm.com/)" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)" alt="git" width="40" height="40"/> </a>
-<a href="[https://cloud.google.com/](https://cloud.google.com/)" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)" alt="google cloud" width="40" height="40"/> </a>
-<a href="[https://firebase.google.com/](https://firebase.google.com/)" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)" alt="firebase" width="40" height="40"/> </a>
-<code><img height="23" src="[https://www.vectorlogo.zone/logos/figma/figma-icon.svg](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)"></code>
-</p>
+        
 
   
  
