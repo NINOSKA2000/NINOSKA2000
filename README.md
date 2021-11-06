@@ -5,7 +5,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; soy Natalia Espinoza  
-                <b><a target="_blank" href="https://shahriarshafin.me/">Shahriar Shafin</a></b>
+               
         </samp>
 </h3>
 <br>
@@ -21,11 +21,9 @@
                 <br>
                 <br>
         </samp>
-        <!-- Programming Languages -->
-        <!-- Code logo -->
+     
         
   </p>     
-       
        
         
   
