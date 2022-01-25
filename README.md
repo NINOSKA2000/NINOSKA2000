@@ -3,10 +3,9 @@
 <p align="center" >
    <img   src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="60%"   heigth="32px"  />
  <h1 align="center"> Soy Natalia Espinoza </h1>
-<h3 align="center"> Front-Developer Apasionada por la tecnología egresada de Laboratoria_Lima </h3>
+<h3 align="center"> Front-Developer Apasionada por la tecnología egresada de Laboratoria_Lima  <a href="https://portafolio-natalia.netlify.app/" target="_blank">  héchale ! un vistazo a mi portafolio </a>  </h3>
+
 </p>
-
-
 
 
 <p align="center ">   
